@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+
+# Executable files
+*.exe
+*.out
+
+# Backup files
+*~
+*.bak
+
+# IDE-specific folders (optional)
+.vscode/
+*.code-workspace
+*.DS_Store
+
+# Build folders
+/build/
+bin/
